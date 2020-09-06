@@ -5,4 +5,4 @@ Files for a tutorial of binary space partitioning algorithm used to create proce
 
 MIT Licence
 <p>Attribution:
-Made by Sunny Valley Studio Piotr Maciejewski sunnyvalleystudio@gmail.com
+Made by Sunny Valley Studio 
